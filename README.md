@@ -3,7 +3,7 @@
 ## 本レポジトリについて
 本レポジトリでは、[地理院地図Vector（仮称）](https://maps.gsi.go.jp/vector/)で提供しているベクトルタイルの建物データ等を3D風に表示するサンプルを提供しています。
 
-本サンプルでは、ベクトルタイルを表示する代表的なライブラリである[Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js)を利用しております。Mapbox GL JSを利用することで、地理院地図Vector（仮称）で提供しているベクトルタイルに含まれている建物等のポリゴンデータを、簡単に3D風に表示することが可能です。
+本サンプルでは、ベクトルタイルを表示するライブラリである[MapLibre GL](https://github.com/maplibre/maplibre-gl-js)の<a href=https://github.com/taisukef/maplibre-gl-js>ES版</a>を利用しております。MapLibre GLを利用することで、地理院地図Vector（仮称）で提供しているベクトルタイルに含まれている建物等のポリゴンデータを、簡単に3D風に表示することが可能です。
 
 ※本サンプルで3D風表示した建物の高さは、**実際の建物の高さを示しているわけではありません**。あくまで3D風のイメージとなります。
 

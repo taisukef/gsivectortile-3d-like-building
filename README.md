@@ -7,7 +7,7 @@
 
 ※本サンプルで3D風表示した建物の高さは、**実際の建物の高さを示しているわけではありません**。あくまで3D風のイメージとなります。
 
-サンプルページ https://gsi-cyberjapan.github.io/gsivectortile-3d-like-building/index.html
+サンプルページ https://taisukef.github.io/gsivectortile-3d-like-building/  
 
 ![本サンプルによる3D風地図の表示例](image/3d-like-building-sample.png "本サンプルによる3D風地図の表示例")
 
